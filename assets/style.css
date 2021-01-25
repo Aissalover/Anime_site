@@ -1,0 +1,17 @@
+body 
+{
+    max-width: 70%;
+    justify-content: justify;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-right:solid grey 1px;
+    border-left:solid grey 1px;
+}
+li {
+    list-style-type:none;
+    margin:10px;
+}
+ul {
+    padding:0px;
+}
